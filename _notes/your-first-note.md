@@ -1,7 +1,8 @@
 ---
-title: Your first seed
+title: Your first butt
 ---
-
+ test **test** [[Another note with spaces]]
+ 
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 
