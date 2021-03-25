@@ -1,0 +1,4 @@
+# neurodiversity
+
+#### neurotypicals
+definition

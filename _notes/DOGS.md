@@ -1,5 +1,5 @@
 ---
-title: A note about cats, NO, DOGS
+title: A note about cats
 ---
 
 This is a second note with a poem with cats. 
