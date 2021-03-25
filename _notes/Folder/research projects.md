@@ -4,18 +4,17 @@
 
 ### Executive Dysfunction Research & Advocacy
 
-slsfjld
+Blurb to come. For now: [Executive Dysfunction Research & Advocacy | Facebook Group](https://www.facebook.com/groups/ExecDysfunction)
 
 
 ### 19th c.(ish) Experimental Utopian Communities
 
-agfa
+Blurb also to come. I used to kind of talk about the researchy aspects of this project here-- [home(grad)schooling](https://homegradschooling.blogspot.com/)
 
 ### We've Always Been Here - Historical Figures & Neurodiversity
 
 I recently started a side project that is currently "collecting" people & book exerpts of historical people that set my [[neurodiversity|neurodiverse]] radar off.  
 
- compare
 
 <blockquote class="paraphrase">
 I will eventually write out an essay on why those who clutch their pearls at the idea of (")diagnosing("?) people in the past are wrong and often ableist, with a whole thing on the made-up nature of conditions themselves and the absurdity of treating things made up by some dudes back a LOT of discoveries ago, as actual, objective truth, YADDA YADDA. But that's gonna take a very long time, because I HAVE MANY THOUGHTS.</blockquote>
