@@ -13,16 +13,13 @@ agfa
 
 ### We've Always Been Here - Historical Figures & Neurodiversity
 
-<blockquote class="paraphrase">I recently started a side project that is currently "collecting" people & book exerpts of historical people that set my [[neurodiversity|neurodiverse]] radar off.  </blockquote>
+I recently started a side project that is currently "collecting" people & book exerpts of historical people that set my [[neurodiversity|neurodiverse]] radar off.  
 
-> compare
+ compare
 
-```pink
-Essay
+<blockquote class="paraphrase">
+I will eventually write out an essay on why those who clutch their pearls at the idea of (")diagnosing("?) people in the past are wrong and often ableist, with a whole thing on the made-up nature of conditions themselves and the absurdity of treating things made up by some dudes back a LOT of discoveries ago, as actual, objective truth, YADDA YADDA. But that's gonna take a very long time, because I HAVE MANY THOUGHTS.</blockquote>
 
-I will eventually write out an essay on why those who clutch their pearls at the idea of (")diagnosing("?) people in the past are wrong and often ableist, with a whole thing on the made-up nature of conditions themselves and the absurdity of treating things made up by some dudes back a LOT of discoveries ago, as actual, objective truth, YADDA YADDA. But that's gonna take a very long time, because I HAVE MANY THOUGHTS.
-
-```
 
 
 
