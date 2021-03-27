@@ -10,7 +10,7 @@ I have made a LOT of lists on my  ![[GradientTwitterBird40px.png|25]]
 ---
 
 
-![](Folder/attachments/GradientTwitterBird40px.png)
+![](GradientTwitterBird40px.png)
 
 
 
@@ -19,9 +19,9 @@ I have made a LOT of lists on my  ![[GradientTwitterBird40px.png|25]]
 ![[GradientTwitterBird40px.png|25]]
 
 
-[![homepage](Folder/attachments/GradientTwitterBird40px.png)](http://commonmark.org "Redirect to homepage")
+[![homepage](GradientTwitterBird40px.png)](http://commonmark.org "Redirect to homepage")
 
 <a href="http://commonmark.org" title="Redirect to homepage">
-    <img src="http://commonmark.org/help/images/favicon.png" alt="homepage" />
+    <img src="https://github.com/twilightfades0/digital-garden-jekyll-template/blob/master/_notes/Folder/attachments/Tweetdeck.png?raw=true" alt="homepage" />
 	
 	
