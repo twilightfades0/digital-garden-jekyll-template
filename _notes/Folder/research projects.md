@@ -11,7 +11,7 @@ Blurb to come. For now: [Executive Dysfunction Research & Advocacy | Facebook Gr
 
 Blurb also to come. I used to kind of talk about the researchy aspects of this project here-- [home(grad)schooling](https://homegradschooling.blogspot.com/)
 
-### We've Always Been Here - Historical Figures & Neurodiversity
+## We've Always Been Here - Historical Figures & Neurodiversity
 
 I recently started a side project that is currently "collecting" people & book exerpts of historical people that set my [[neurodiversity|neurodiverse]] radar off.  
 
@@ -27,7 +27,7 @@ I read a lot of historical non-fiction/historical biographies, especially about 
 
 I love these biographies in general, but after a while the lack of disability/neurodiverse context for these people really started to wear on me. 
 
-Presumable [[neurodiversity#neurotypicals|neurotypical]] biographers sooo frequently misconstrue what, to me, someone who runs ND groups, live in an ND house, and reads tons of research on ND conditions, are **painfully obvious** autistic/ADHD traits.
+Presumable [[neurodiversity|neurotypical]] biographers sooo frequently misconstrue what, to me, someone who runs ND groups, live in an ND house, and reads tons of research on ND conditions, are **painfully obvious** autistic/ADHD traits.
 
 Yet the authors don't see those traits for what they are (and what they *really* mean for that person/'s life) and they proceed to do the same thing that we autistic/ADHDers are all-too-familiar with: treat them as personal failures, bad choices, etc. These biographies can be riddled with ableism. I don't hold it (too much) against the author, as they obviously aren't understanding what they're looking at. But lots of us readers do. And we understand all the negative things they say about these same traits that most of us share. 
 
@@ -38,7 +38,7 @@ These biographies are all incomplete.
 And I want to help!
 <br>
 
-### CEO of Ameya Medical Research, Not-Inc.
+## CEO of Ameya Medical Research, Not-Inc.
 
 I try to keep current and **read/review the latest research** for the "constallation of conditions" which comes along with my connective tissue disorder ([[Ehlers-Danlos Syndrome|EDS]]). 
 
