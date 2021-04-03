@@ -10,6 +10,10 @@ I'm pretty new to the autistic community, having [[autism diagnosis|been diagnos
 
 
 <b class=hr></b>
+.
+<b class=.editorial></b>
+.
+<b class=editorial></b>
 
 For me, I certainly don't get upset when I see "Autism Awareness," but it absolutely does also communicate to me that that person/group knows of autism from non-autistic sources. And frankly, that's knowing a very different (at best, a very small subgroup of) autism than really exists. To most of us, it's code for "I follow Autism Speaks and am probably in exclusively neurotypical-run support groups." And with some leeway for such people who are also new to this world and haven't realized that there even *are* autistic advocates and autistic-led groups-- that is generally a choice. And to choose to stay in a neurotypical parent-led autism bubble and not follow [[ActuallyAutistic|actual autistics]] suggests, well... they don't like us 😂. And that's ableist but whatever... but the real thing that upsets us about all that, is knowing they are raising autistics. But they don't like autistics, or respect them enough to follow their lead with this sort of thing at best.
 
