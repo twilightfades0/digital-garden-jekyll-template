@@ -1,7 +1,10 @@
 To change the look of websites I use [Stylus :: add0n.com](https://add0n.com/stylus.html)
 
 ## Websites
----
+
+
+
+
 #### **Twitter**
 
 I have made a LOT of lists on my [twitter](twitter.com/ameyawarde), but I [[Out of Sight Out of Mind|never, ever remember to check them]]. 😞 So, I was (overly) excited to find [MultiRow TweetDeck](https://multirow.page/), which allows you to stack columns so you can see everything at once!😍 
@@ -12,10 +15,7 @@ My current [tweetdeck.twitter.com](https://tweetdeck.twitter.com/) setup!
 
 [MultiRow TweetDeck](https://multirow.page/) | [Tweetdeck pink theme](https://33kk.github.io/uso-archive/?category=twitter&search=&style=173373) (modified) | [Rainbow TweetDeck](https://33kk.github.io/uso-archive/?category=twitter&search=rainbow&style=173675) (modified)
 
----
-
-
----
+ 
 
 
 #### **YouTube**
@@ -24,8 +24,7 @@ My current [tweetdeck.twitter.com](https://tweetdeck.twitter.com/) setup!
 [The Amazing World of Gumball YouTube (beta)](https://33kk.github.io/uso-archive/?search=Gumball+&style=169939) (modified) | [YouTube Retrowave](https://33kk.github.io/uso-archive/?style=191573)
 
 
-
----
+ 
 
 #### **Google Search**
 
@@ -33,8 +32,7 @@ My current [tweetdeck.twitter.com](https://tweetdeck.twitter.com/) setup!
 [Materialized Google Search With Search Tools](https://33kk.github.io/uso-archive/?category=google&search=materialized&style=168095) (modified/still being modified)
 
 
-
----
+ 
 
 #### **Wikipedia**
 

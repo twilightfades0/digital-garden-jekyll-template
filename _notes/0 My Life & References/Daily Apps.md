@@ -1,9 +1,9 @@
-# **Daily Apps**
+# Daily Apps
 
 ---
 
 
-## **Browsers**
+## Browsers
 I... use a lot of them. Useage for each one used to be more clearly deliniated; now it's just kind of whatever, to be honest. 
 
 These days my main browser is [Microsoft Edge](https://www.microsoft.com/en-us/edge). When I [[starting fresh|made a fresh Windows account]] a month or two ago, I started playing with it just to, idk be silly/contrarian? because I assumed it was still essentially Internet Explorer, and ha, ha! What millenial uses Internet Explorer!?
@@ -12,7 +12,7 @@ But! Turns out Edge is basically just [Chrome](https://www.google.com/chrome/), 
 
 I still really only use [Firefox](https://www.mozilla.org/en-US/firefox/new/) for finding & reading research papers and doing all the things things related to [[research projects|Executive Dysfunction Research & Advocacy]]. Though I do also do researchy things on the other ones too, tbh. 
 
-##### **Chrome Store Extensions **
+##### Chrome Store Extensions 
 
 
 - [AdBlock — best ad blocker](https://chrome.google.com/webstore/detail/adblock-%E2%80%94-best-ad-blocker/gighmmpiobklfepjocnamgkkbiglidom)

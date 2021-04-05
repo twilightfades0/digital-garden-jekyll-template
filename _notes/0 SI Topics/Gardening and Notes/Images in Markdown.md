@@ -26,6 +26,9 @@ Thanks for the following goes to **foreveryone** in the [Obsidian Members Group]
 
 <br>
 
+
+
+
 ##### Image align, with L/R text wrap:
 ```
 ![[example.png|left|300]]
@@ -46,6 +49,13 @@ Thanks for the following goes to **foreveryone** in the [Obsidian Members Group]
 
 <br>
 
+For Float:
+
+```
+![float-right](3706211.png)
+```
+
+<br>
 
 ##### Images next to each other:
 
@@ -58,6 +68,7 @@ Thanks for the following goes to **foreveryone** in the [Obsidian Members Group]
 ```
 ![[example.png|grid|75]] ![[example.png|grid|75]] ![[example.png|grid|75]] Lorem ipsum dolor sit amet...
 ```
+
 
 ## Image Captions
 Thanks for the following goes to **foreveryone** in the [Obsidian Members Group](https://discord.gg/) on [[Discord]]!
@@ -78,7 +89,9 @@ Thanks for the following goes to **foreveryone** in the [Obsidian Members Group]
 <br>
 
 
-To put **two images with captions on either side of the page**, you need to put the images first, then the captions. Like this:
+#### For two images with captions on either side of the page
+
+In this case you'll need to put the images first, then the captions. Like this:
 
 
 ![[3706211.png|left|75]] ![[3706211.png|right|75]] <figcaption id="left" style="width:75px">This is a caption</figcaption> <figcaption id="right" style="width:75px">This is a caption</figcaption> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin quis velit efficitur, vestibulum dui ut, maximus purus. Maecenas ut vestibulum elit. Integer quis sapien est. Pellentesque viverra sem vel felis vehicula laoreet. Fusce mi est, ornare in facilisis ullamcorper, pretium sed ex. Duis viverra ante quis ante rhoncus tincidunt. Vestibulum ut volutpat massa.
@@ -133,7 +146,16 @@ margin-right: auto;
 [![Alt Text|40](www.example.com/image.png)](http://linkyloo.com)
 ```
 
+<br>
+
+#### To link internally:
 
 
+[![[3706211.png|75]]]([[Kanban]])
 
+```
+[![[3706211.png|75]]]([[Internal_Link]])
+```
+
+If the internal link has spaces or special characters, you'll need to run it through: [URL Encode Decode (url-encode-decode.com)](https://www.url-encode-decode.com/)
 
