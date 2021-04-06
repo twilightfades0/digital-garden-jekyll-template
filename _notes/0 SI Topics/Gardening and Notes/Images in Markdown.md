@@ -1,5 +1,5 @@
 
-How to do stuff with images in markdown!: 
+# How to do stuff with images in markdown!: 
 
 ```ad-tip 
 title: To add a CSS snippet
