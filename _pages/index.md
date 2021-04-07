@@ -8,9 +8,8 @@ permalink: /
 # Welcome! 🌱
 
 <p class="box">
-This [[Mind Garden|Mind garden/digital garden]] / [[second brain]] is my attempt to [learn in public](https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public). Think of it like a busy [pensieve](https://harry-potter-compendium.fandom.com/wiki/Pensieve) for thoughts and ideas (ps rowling ❌🙅‍♀️, trans folks ✔️🎉).
+This [[Mind Garden|mind garden/digital garden]] / [[second brain]] is my attempt to <a href="https://www.mentalnodes.com/the-only-way-to-learn-in-public-is-to-build-in-public">learn in public</a>. Think of it like a busy <a href="https://harry-potter-compendium.fandom.com/wiki/Pensieve">pensieve</a> for thoughts and ideas <small>(ps rowling ❌🙅‍♀️, trans folks ✔️🎉).</small>
 </p>
-
 
 
 
