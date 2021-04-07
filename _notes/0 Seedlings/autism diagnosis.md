@@ -1,8 +1,7 @@
 ---
 Title: Citing & References in Obsidian
 
- tags: half-planted
-
+tags: half-planted
 ---
 
 Unlike most adult women who are late-diagnosed, it wasn't after my child was diagnosed (the opposite happened) or even after I figured it out myself and then pursued diagnosis (though that has been the case for ADHD and every other diagnosis I have).
