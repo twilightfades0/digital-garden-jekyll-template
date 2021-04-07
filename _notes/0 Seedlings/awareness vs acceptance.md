@@ -1,3 +1,9 @@
+---
+Title: Acceptance vs Awareness
+
+tags: half-planted
+
+---
 
 # **Acceptance vs Awareness**
 

@@ -1,3 +1,9 @@
+---
+Title: Daily Apps
+
+tags: seedling
+---
+
 # Daily Apps
 
 ---

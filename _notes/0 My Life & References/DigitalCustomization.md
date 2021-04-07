@@ -1,3 +1,10 @@
+---
+Title: Digital Customization
+
+tags: half-planted
+---
+
+
 To change the look of websites I use [Stylus :: add0n.com](https://add0n.com/stylus.html)
 
 ## Websites

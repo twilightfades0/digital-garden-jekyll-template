@@ -1,3 +1,10 @@
+---
+Title: Acceptance vs Awareness
+
+tags: half-planted
+
+---
+
 Too ADHD to make it through the rest of the comments here but like Saultie Weasel I don't know your relationship to our lovely OP here so I'll be nice but like, hey maybe that's a real douchebag opinion 🤷🏻‍ Depersonalize it and I promise you I can hate on Fox News as well as you-- maybe more, since it's very personal for me-- but like maybe i don't want my fucking mother and grandmother and all my living elderly relatives to die?? Maybe, there's like-- more to being a fox news watcher than just being worthy of death?? 🤔
 
   

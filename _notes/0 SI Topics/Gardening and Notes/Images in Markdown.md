@@ -1,3 +1,8 @@
+---
+Title: How to do stuff with images in markdown
+
+tags: seedling
+---
 
 # How to do stuff with images in markdown!: 
 

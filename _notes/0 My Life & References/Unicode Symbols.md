@@ -1,6 +1,12 @@
 ---
 cssclass: kanban
+
+Title: Citing & References in Obsidian
+
+tags: seedling
 ---
+
+
 
 ## Arrows
 - ```ad-note

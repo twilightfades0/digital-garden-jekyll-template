@@ -1,4 +1,11 @@
- I hate how hard it is to tell most of the trauma vs neurodiversity vs other mental health stuff. Trauma and resulting issues is absolutely 10000% real and important to research/know/treat/etc. And there is definitely trauma for many many neurodiverse people just living in a world not built for us (+ comorbidities making it even harder)
+---
+Title: Acceptance vs Awareness
+
+tags: half-planted
+
+---
+
+I hate how hard it is to tell most of the trauma vs neurodiversity vs other mental health stuff. Trauma and resulting issues is absolutely 10000% real and important to research/know/treat/etc. And there is definitely trauma for many many neurodiverse people just living in a world not built for us (+ comorbidities making it even harder)
 
   
 
