@@ -63,7 +63,7 @@ Ones I switch on and off or am just starting to use:
 
 ## **Obsidian**
 
-I found the [[note-taking]] / [[second brain]] app, **[Obsidian](https://obsidian.md/)** a couple weeks ago, and I'm already using it for this [[mind garden]], my notes for my [[research projects]], and an ever-growing list of other purposes. 
+I found the [[note-taking]] / [[second brain]] app, **[Obsidian](https://obsidian.md/)** a couple weeks ago, and I'm already using it for this [[Mind Garden]], my notes for my [[research projects]], and an ever-growing list of other purposes. 
 
 ##### **Theme:**
 
