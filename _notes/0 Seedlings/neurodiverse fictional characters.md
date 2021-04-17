@@ -5,23 +5,26 @@ Title: Acceptance vs Awareness
 
 tags: half-planted
 
+maturity: seedling
+
 ---
 
 # Fictional Neurodiverse Characters
 ---
+** {{ page.maturity }} **
 
 ## Atypical
 ## Big Bang Theory
 ## Brooklyn 99
 
 ##### Amy
- 
+
  yup
- 
+
 #### Charles
 
 #### Holt
- 
+
 
 #### Jake
 
@@ -34,7 +37,7 @@ tags: half-planted
 - Trauma from childhood bullying
 - History of Body image issues
 - This stuff is legit and affects him deeply and it just felt weird to leave him out entirely when he does have his own stuff going on. And everybody loves terry so i just wanted to make note of it.
- 
+
 
 
 
@@ -44,7 +47,7 @@ tags: half-planted
 
 ## She-Ra
 
-##### Entrapa 
+##### Entrapa
 
 ##### Adora
 Not cannonly autistic but shows tons of traits
@@ -58,7 +61,7 @@ fjsk
 
 ## Others, alphabetical:
 
-#### House 
+#### House
 He def is
 
 
