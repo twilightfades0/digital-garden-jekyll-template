@@ -11,7 +11,7 @@ maturity: seedling
 
 # Fictional Neurodiverse Characters
 ---
-** {{ page.maturity }} **
+**{{ page.maturity }}**
 
 ## Atypical
 ## Big Bang Theory

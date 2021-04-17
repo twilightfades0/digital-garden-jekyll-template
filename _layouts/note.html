@@ -6,7 +6,23 @@ layout: default
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.  THIS IS A {{ page.maturity }}!
+      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.
+
+      {% case page.maturity %}
+        {% when "seedling" %}
+           SEEDLING, BIYATCH! 🌱
+        {% when "just_planted" %}
+           just planted
+        {% when "budding" %}
+           BUD! 🌿
+        {% when "flowering" %}
+           Teh flowerrrrrs 🌸
+        {% when "evergreen" %}
+           Katniss, right? 🌳
+        {% else %}
+           ERROR! HONK! ERROR!  It's a damn goose!
+      {% endcase %}
+
       {% endif %}
     </time>
   </div>
