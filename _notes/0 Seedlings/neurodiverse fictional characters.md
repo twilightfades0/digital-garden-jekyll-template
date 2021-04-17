@@ -79,6 +79,7 @@ He def is
 <footer>@animationworld<cite> <a href="https://www.awn.com/animationworld/lilo-stitch-revisited-part-i">https://www.awn.com/animationworld/lilo-stitch-revisited-part-i</a></cite></footer>
 </blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
+<p>
 <blockquote class="quoteback" darkmode="" data-title="bio" data-author="Chris Sanders Art" cite="https://www.chrissandersart.com/pages/bio">
  "I remembered a story from eighteen years before that I had tried to write as a children's book, but had given up on, because I couldn't compress it into a short story format. Over a sushi dinner at the Walt Disney World Swan Resort, I pitched that story -- <mark>a tale of a strange forest creature, shunned by all, and unaware of his own origins.</mark> Tom liked it, and when he suggested I relocate the tale of the lonely little monster into the human world, <em>Lilo &amp; Stitch</em> was born."
 <footer>Chris Sanders Art <cite><a href="https://www.chrissandersart.com/pages/bio">https://www.chrissandersart.com/pages/bio</a></cite></footer>
