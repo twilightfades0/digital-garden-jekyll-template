@@ -7,7 +7,7 @@ maturity: seedling
   <div>
     <h1>{{ page.title }}</h1>
     <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.  THIS IS A {{ maturity }}!
+      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.  THIS IS A {{ page.maturity }}!
       {% endif %}
     </time>
   </div>
