@@ -1,3 +1,6 @@
+---
+---
+
 # Strugging to shower?
 
 It's okay, no judgement here! It's super common for us, even though our exact reasons why may vary. Here are some ideas to accommodate this issue:

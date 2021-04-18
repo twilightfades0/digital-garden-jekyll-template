@@ -1,3 +1,6 @@
+---
+---
+
 # Note-taking
 
 ## Atomized Notes

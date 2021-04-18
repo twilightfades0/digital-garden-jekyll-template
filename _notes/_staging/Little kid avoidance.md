@@ -1,3 +1,6 @@
+---
+---
+
 That's a super common response to anxiety, and anxiety is a super common response to confusion/not knowing how to do a thing/overwhelm/frustration. Especially for "gifted"/ND kids (i question the difference for most of the former tbh) who aren't used to those feelings, even if they intellectually know those are okay things to feel. Often they don't even realize what they're feeling, as anxiety can be such a physical, straight-to-lizard-brain sensation, and generally kids are not great at recognizing when they're anxious for non-obvious reasons (monsters, roller coasters, the dark). I've always tried to work with both kids on recognizing their own anxiety when they feel it, and they're still not very good with it yet.
 
   

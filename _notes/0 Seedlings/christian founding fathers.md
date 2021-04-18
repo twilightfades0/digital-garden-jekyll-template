@@ -1,3 +1,6 @@
+---
+---
+
 Its mind boggling to me how many people reference history without knowing anything about it.
 
 Most founding fathers were Christian Diests, meaning they supported the moral teachings of Jesus, but NOT his divinity! Thats a whole lot different than what current christians assume they believed. Few believed in any actual supernatural phenomena, including miracles or, obviously, the literal virgin birth or resurrection.

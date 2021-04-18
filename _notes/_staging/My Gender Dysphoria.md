@@ -1,3 +1,6 @@
+---
+---
+
 When i was a kid, i never told anyone, but i had significant gender distress. Like, cry myself to sleep because "God made me wrong". Id pray and pray trying to figure out why i "was put in the wrong body". I NEVER heard of trans folks at that age, nor had i heard the slightest suggestion that anyone on the planet had ever felt anything like it. I was very lonely and self-loathing.
 
   
