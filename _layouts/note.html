@@ -29,7 +29,7 @@ layout: default
           {% else %}
           <!--No "maturity" variable set for this page (or unknown value)-->
         {% endcase %}
-        </span>
+        </span><br>
         <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
         Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.
         </time>
