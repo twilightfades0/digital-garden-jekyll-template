@@ -5,14 +5,21 @@ layout: default
 <article>
   <div>
     <h1>{{ page.title }}</h1>
+  </div>
 
+  <div id="notes-entry-container">
+    <content>
+      {{ content }}
+    </content>
+
+    <side style="font-size: 0.9em">
       {% if page.type != 'pages' %}
       <span class="maturity">
         {% case page.maturity %}
           {% when "just_planted" %}
              just planted <img src="https://i.imgur.com/0TmGleB.png">
           {% when "seedling" %}
-              SEEDLING, BIYATCH! 🌱<img src="https://i.imgur.com/r8vNWQY.png"
+              SEEDLING, BIYATCH! 🌱<img src="https://i.imgur.com/r8vNWQY.png">
           {% when "budding" %}
              BUD! 🌿
           {% when "flowering" %}
@@ -27,14 +34,6 @@ layout: default
         Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.
         </time>
       {% endif %}
-  </div>
-
-  <div id="notes-entry-container">
-    <content>
-      {{ content }}
-    </content>
-
-    <side style="font-size: 0.9em">
       <h3 style="margin-bottom: 1em">Notes mentioning this note</h3>
       {% if page.backlinks.size > 0 %}
       <div style="display: grid; grid-gap: 1em; grid-template-columns: repeat(1fr);">
