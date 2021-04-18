@@ -1,17 +1,13 @@
 ---
 Title: Fictional Neurodiverse Characters
-
-Title: Acceptance vs Awareness
-
-tags: half-planted
-
 maturity: seedling
 
 ---
 
 # Fictional Neurodiverse Characters
 ---
-**{{ page.maturity }}**
+
+[[Autism MOC]]
 
 ## Atypical
 ## Big Bang Theory

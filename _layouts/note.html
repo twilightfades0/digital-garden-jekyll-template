@@ -5,24 +5,24 @@ layout: default
 <article>
   <div>
     <h1>{{ page.title }}</h1>
-    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">{% if page.type != 'pages' %}
-      Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}.
+    <time datetime="{{ page.last_modified_at | date_to_xmlschema }}">
+      {% if page.type != 'pages' %}
+        {% case page.maturity %}
 
-      {% case page.maturity %}
-        {% when "seedling" %}
-           SEEDLING, BIYATCH! 🌱
-        {% when "just_planted" %}
-           just planted
-        {% when "budding" %}
-           BUD! 🌿
-        {% when "flowering" %}
-           Teh flowerrrrrs 🌸
-        {% when "evergreen" %}
-           Katniss, right? 🌳
-        {% else %}
-        <!--No "maturity" variable set for this page (or unknown value)-->
-      {% endcase %}
-
+          {% when "just_planted" %}
+             just planted <img src="https://i.imgur.com/0TmGleB.png" title="shovel and dirt" />
+          {% when "seedling" %}
+              SEEDLING, BIYATCH! 🌱
+          {% when "budding" %}
+             BUD! 🌿
+          {% when "flowering" %}
+             Teh flowerrrrrs 🌸
+          {% when "evergreen" %}
+             Katniss, right? 🌳
+          {% else %}
+          <!--No "maturity" variable set for this page (or unknown value)-->
+        {% endcase %}
+        Last tended on {{ page.last_modified_at | date: "%B %-d, %Y" }}
       {% endif %}
     </time>
   </div>
