@@ -28,3 +28,13 @@ It's okay, no judgement here! It's super common for us, even though our exact re
 ![](https://images-na.ssl-images-amazon.com/images/I/31ALu%2B6UDdL._SR600%2c315_PIWhiteStrip%2cBottomLeft%2c0%2c35_PIStarRatingFIVE%2cBottomLeft%2c360%2c-6_SR600%2c315_ZA13%2c445%2c290%2c400%2c400%2cAmazonEmberBold%2c12%2c4%2c0%2c0%2c5_SCLZZZZZZZ_FMpng_BG255%2c255%2c255.jpg)
 
 amazon.com Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01) Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)
+
+[http://amazon.peek.link/YpZ](http://amazon.peek.link/YpZ)
+
+
+{
+  "title": "Amazon - Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)",
+  "description": "Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)",
+  "image": "https://m.media-amazon.com/images/I/31ALu+6UDdL.\_SL500\_.jpg",
+  "url": "https://www.amazon.com/Juvo-Comfort-Bath-Chair-BSC01/dp/B07MZN2CM4/ref=sr\_1\_389"
+}
