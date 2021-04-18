@@ -9,7 +9,7 @@ maturity: just_planted
 - [[awareness vs acceptance]]
 - [[gendered descriptions of autism]]
 - [[neurodiversity and trauma-based care]]
-- [[neurodiverse fictional characters]]
+- [[Fictional Neurodiverse Characters]]
 - [[Can't Shower❓]]
 
 testing some stuff

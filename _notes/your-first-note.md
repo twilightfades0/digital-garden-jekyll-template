@@ -3,7 +3,7 @@ title: Your first butt
 ---
  test **test** [[Another note with spaces]]
  
- [[Daily Apps]] [[awareness vs acceptance]] [[neurodiverse fictional characters]]
+ [[Daily Apps]] [[awareness vs acceptance]] [[Fictional Neurodiverse Characters]]
 ### Welcome!
 
 This is your first note. You'll find it in the [`notes/`](https://github.com/maximevaillancourt/digital-garden-jekyll-template/tree/master/_notes) directory. 

@@ -4,8 +4,6 @@ maturity: seedling
 
 ---
 
-# Fictional Neurodiverse Characters
----
 
 [[Autism MOC]]
 
