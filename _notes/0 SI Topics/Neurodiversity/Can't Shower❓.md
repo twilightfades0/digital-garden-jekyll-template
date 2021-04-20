@@ -29,12 +29,6 @@ It's okay, no judgement here! It's super common for us, even though our exact re
 
 amazon.com Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01) Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)
 
-[http://amazon.peek.link/YpZ](http://amazon.peek.link/YpZ)
 
 
-{
-  "title": "Amazon - Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)",
-  "description": "Juvo Comfort Series Bath Chair With Integrated Lift-Assist Handles and Chair Back, Height Adjustable, Comfort Padded (BSC01)",
-  "image": "https://m.media-amazon.com/images/I/31ALu+6UDdL.\_SL500\_.jpg",
-  "url": "https://www.amazon.com/Juvo-Comfort-Bath-Chair-BSC01/dp/B07MZN2CM4/ref=sr\_1\_389"
-}
+
