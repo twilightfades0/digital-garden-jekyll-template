@@ -1,3 +1,6 @@
+---
+---
+
 written in response to this link on fb: https://l.facebook.com/l.php?u=http%3A%2F%2Fwww.thinkingautismguide.com%2F2019%2F05%2Fautism-is-not-behavioral.html%3Ffbclid%3DIwAR0_hpJbj3Sltc79XJDJ61pqNW-DIbGztl4X-jlAPnhUdmiw4QLoJVxlNxk&h=AT3yl_5IKoWA7CWF_DQIng8_i_JXR1F-6AEJhQNxCVL4aHeHtbyf9qMGPtEbarCF7YSaRBXeA1m5NKDzk605uahRWJ46baCU2d_9bVPU6NSIzmwV8zmbYNvQ7hSPXtOxi_vl&__tn__=%2CmH-R&c[0]=AT3X_D-wGxfec9owME0oZSyBh4fSuTKt1BJt29QW9RF1GltAxCgNILRGXYvZc27ZVZXzC7-VkzfoCCri4-YFNZ_YaQT7yDABwZHQUtntKQRXdpgXQrr2wDeIoIqCTF8J1kI5E8FK5-5SJiiw8WNfkhCkX3hXjcs7_bnC4vev20F4RRY
 
 I go from 0 to 100 when i see autism or ADHD listed as behavioral disorders. They absolutely are NOT. Yet SO MANY PEOPLE, including professionals, ignorantly categorize them as such.

@@ -14,8 +14,6 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 </blockquote>
  <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
-.
-
 
 <blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author="@wordpressdotcom" cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
 <p class="c0">So a year ago I would have thrown the link [to an article about gun ownership &amp; mass shootings] to Twitter with a damning summary of the study, and everyone would have known I was a good liberal and retweeted it to prove that they were good liberals and if you listened closely you could hear our collective neurons harden.</p>
@@ -26,9 +24,7 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 </blockquote>
 
 
-
-
-<p>
+<br>
 	
 This site is my digital garden wiki, where I can consolidate some of my thought and writing, as well as expand on it, dig deeper, and be able to easily link back to the thought and reading I've done on the subject later. 
 
@@ -38,7 +34,7 @@ Blog posts are proper essays. It's hard for my and my ADHD brain to sit down and
 
 A digital garden is the perfect solution for me, as I can copy those comments over here and have them for expanding and cleaning up later-- and hopefully ideally turning into those polished bold posts (or evergreen posts in digital garden parlance) over time. 
 
-<p>
+<br>
 
 
 <blockquote class="quoteback" darkmode="" data-title="You%20and%20your%20mind%20garden" data-author="@ness_labs" cite="https://nesslabs.com/mind-garden">

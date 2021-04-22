@@ -1,3 +1,6 @@
+---
+---
+
 neuropsychology has no business diagnosing ADHD. The tests they use were meant for research purposes \*only\* and are known by every researcher that they \*do not actually correlated to real life executive function skills\* at all. Even I, with disabling ADHD that has kept me in poverty bc i get fired for it in every job, aced every test the neuropsych gave, except the computer one. ![😂](https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f602.png)
 
 I've been re-diagnosed by 10 psychiatrist (from moving a lot & changing insurances & psychs always wanting to do their own diagnosis).. and according to those tests I baaarely showed a single sign of ADHD. ![😂](https://static.xx.fbcdn.net/images/emoji.php/v9/td0/1/16/1f602.png) I \*study\* those tests too, and they have no business being used as they are. I legitimately question how this got started-- the tests are PAID PRODUCTS and that anyone would go against the fact that the researchers who first created each test never intended them to diagnose, it was for research only, and there are no diagnostic criteria which those tests can fulfill, etc. -- Its so ridiculous I legitimately wonder if the publishing companies behind these tests were at all involved in neuropsychology/pushing these tests on everyone. ![😕](https://static.xx.fbcdn.net/images/emoji.php/v9/tf2/1/16/1f615.png)
