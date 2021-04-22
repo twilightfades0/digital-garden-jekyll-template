@@ -46,10 +46,8 @@ A digital garden is the perfect solution for me, as I can copy those comments ov
 <footer>@ness_labs <cite><a href="https://nesslabs.com/mind-garden">https://nesslabs.com/mind-garden</a></cite></footer>
 </blockquote>
 
-<p>
-
+<br>
 **Digital Gardening Links**
-
 
 - [A Brief History &amp; Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [How the Blog Broke the Web - Stacking the Bricks](https://stackingthebricks.com/how-blogs-broke-the-web/)
