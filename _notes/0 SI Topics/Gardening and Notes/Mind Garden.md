@@ -1,10 +1,8 @@
 ---
-title: Mind gardens, digital gardens
-
 maturity: just_planted
 ---
 
-What are **Digital Gardens** (aka **Mind Gardens**)?
+## What are **Digital Gardens** (aka **Mind Gardens**)?
 
 In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 
@@ -44,7 +42,38 @@ A digital garden is the perfect solution for me, as I can copy those comments ov
 
 <br>
 
-**Digital Gardening Links**
+---
+
+## Campfires, Streams, Campfires, and Swales
+
+
+These are words used to describe experiences with the internet. 
+
+#### Garden
+
+Let's think of Wikipedia as a garden, with each page a different plant.
+
+<blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author=" " cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
+Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden. We create the garden as a sort of experience generator, capable of infinite expression and meaning.
+<footer>  <cite><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+#### Streams
+
+Where I live in Colorado there is a tiny little "river" (a stream, in my midwestern opinion) going through the downtown, with park space runing along the sides. In non-pandemic & non-drought summers the river is often downright crowded with people drifting along in their intertubes. . You can hear snippets of their conversations as they pass by, or you could hold a conversation with anyone if you walked along with them.
+
+Twitter, facebook, and other such social media sites with "feeds" and "timelines" are such streams. You see (hear) snippets of conversation and arguments and belief systems, in real time-ish, as they are said, etc.. but you usually really have to click through and really dig into that person's page to find more context. 
+
+<blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author="@wordpressdotcom" cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
+<p class="c0 c2">If the Garden is exposition, the stream is conversation and rhetoric, for better and worse.</p>
+<p class="c0 c2">[...] Whereas the garden is integrative, the Stream is self-assertive. It’s persuasion, it’s argument, it’s advocacy. It’s personal and personalized and immediate.</p>
+ <footer> <cite><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+
+## **Digital Gardening Links**
 
 - [A Brief History &amp; Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
 - [How the Blog Broke the Web - Stacking the Bricks](https://stackingthebricks.com/how-blogs-broke-the-web/)
