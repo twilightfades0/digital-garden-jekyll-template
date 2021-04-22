@@ -4,10 +4,27 @@ maturity: just_planted
 
 ## What are **Digital Gardens** (aka **Mind Gardens**)?
 
+This site is my digital garden, a place on the web where I can consolidate some of my thoughts and writings in a way that can be both shareable, integrated with other information I collect (like a wiki), yet still a work-in-progress. 
+
+Most importantly for me, digital gardens are a place where I don't have to feel anxious about my writing because it's explicitly  *meant* to be messy.
+
+<blockquote class="quoteback" darkmode="" data-title="Stop%20Giving%20af%20and%20Start%20Writing%20More" data-author="Stop Giving af and Start Writing More" cite="https://joelhooks.com/on-writing-more">
+<p class="css-yw8fqx e1tutuyt0">The idea of a "blog" needs to get over itself. Everybody is treating writing as a "content marketing strategy" and using it to "build a personal brand" which leads to the fundamental flawed idea that everything you post has to be polished to perfection and ready to be consumed.</p><p class="css-yw8fqx e1tutuyt0">Bullshit.</p><p class="css-yw8fqx e1tutuyt0">This idea is toxic and led me to publish less and less over time. </p><p class="css-yw8fqx e1tutuyt0">Instead my approach now is to publish my thoughts more freely with less premeditation. Particularly in <strong>this</strong> space, which is mine, for me, by me.</p>
+<footer> <cite><a href="https://joelhooks.com/on-writing-more">Stop Giving af and Start Writing More</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+Blog posts these days are generally expected to be proper essays. My [[AutisticADHD]] brain [[why its hard for me to write essays|struggled enough writing essays in college]] because of the pressure to make it a finished, complete, perfect piece of writing. I don't want to do that for "fun." So, my writing post-college, when I learned how much effort goes into a proper Blog Post™ (essay), has shifted my writing to ephmereal FB & twitter comments, which are unlikely to be read after the ~day they were written. And because of the nature of my FB use (lots of health/neurodiversity groups), that *really* sucks because some days I spend *hours* answering questions and writing up info. 
+
+
+So, a digital garden is the perfect solution for me, as I can copy (plant!) those comments over here and tend to them (editing, expanding, adding citations, correcting, etc) over time, rather than re-writing the same basic info over and over again without ever growing the idea/knowledge. 
+
+---
+
 In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 
 <blockquote class="quoteback" darkmode="" data-title="A%20Brief%20History%20%26%20Ethos%20of%20the%20Digital%20Garden" data-author="" cite="https://maggieappleton.com/garden-history">
-<p class="css-y4yo6t e110qc8d0">They're not following the same conventions as what we've come to know as the "personal blog". Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.</p><p>They're collections of evolving ideas that aren't strictly organised by their publication date.  They're inherently exploratory – notes are linked through contextual associations.  They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time.</p>
+<p class="css-y4yo6t e110qc8d0">[Digital gardens are] not following the same conventions as what we've come to know as the "personal blog". Rather than presenting a set of polished articles, displayed in reverse chronological order, these sites act more like free form, work-in-progress wikis.</p><p>They're collections of evolving ideas that aren't strictly organised by their publication date.  They're inherently exploratory – notes are linked through contextual associations.  They aren't refined or complete - notes are published as half-finished thoughts that will grow and evolve over time.</p>
  <footer> <cite><a href="https://maggieappleton.com/garden-history">https://maggieappleton.com/garden-history</a></cite></footer>
 </blockquote>
  <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
@@ -22,15 +39,16 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 </blockquote>
 
 
+<blockquote class="quoteback" darkmode="" data-title="%F0%9F%8C%B1%20My%20blog%20is%20a%20digital%20garden%2C%20not%20a%20blog" data-author="" cite="https://joelhooks.com/digital-garden">
+Just like plants in the garden I've got posts that are in various stages of growth and nurturing. Some might wither and die, and others (like this one you are reading) will flourish and provide a source of continued for the gardener and folks in community that visit 👋
+<footer> <cite><a href="https://joelhooks.com/digital-garden">🌱 My blog is a digital garden, not a blog</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+					  
 <br>
 	
-This site is my digital garden wiki, where I can consolidate some of my thought and writing, as well as expand on it, dig deeper, and be able to easily link back to the thought and reading I've done on the subject later. 
 
-And, most importantly for me, it is *allowed* to be messy.
 
-Blog posts are proper essays. It's hard for my and my ADHD brain to sit down and whip up a polished essay when I want to blog, so I rarely do anymore. I hate that. And all it really does is shift my writing to FB & twitter comments, where they are much more ephmereal and unlikely to be read after the day they were written. And because of the nature of my FB use (lots of health/neurodiversity groups), that *really* sucks because I tend to put way too much time into those comments.
-
-A digital garden is the perfect solution for me, as I can copy those comments over here and have them for expanding and cleaning up later-- and hopefully ideally turning into those polished bold posts (or evergreen posts in digital garden parlance) over time. 
 
 <br>
 
@@ -71,6 +89,29 @@ Twitter, facebook, and other such social media sites with "feeds" and "timelines
  <footer> <cite><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+
+
+<blockquote class="quoteback" darkmode="" data-title="A%20Brief%20History%20%26%20Ethos%20of%20the%20Digital%20Garden" data-author="" cite="https://maggieappleton.com/garden-history">
+ <p class="css-y4yo6t e110qc8d0">Caufield's main argument was that we have become swept away by  <em>streams</em> – the collapse of information into single-track timelines of events.  The conversational feed design of email inboxes, group chats, and InstaTwitBook is fleeting – they're only concerned with self-assertive immediate thoughts that rush by us in a few moments....</p><p class="css-y4yo6t e110qc8d0">This is not inherently bad. Streams have their time and place. Twitter is a force-multiplier for exploratory thoughts and delightful encounters once you fall in with the right crowd and learn to play the game.</p><p class="css-y4yo6t e110qc8d0">But streams only surface the Zetigeisty ideas of the last 24 hours. They are not designed to accumulate knowledge, connect disparate information, or mature over time. </p>
+<footer> <cite><a href="https://maggieappleton.com/garden-history">https://maggieappleton.com/garden-history</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+
+
+
+#### Campfires
+Tom Critchlow added (as far as I can tell it was his idea, anyway) "campfires"
+
+<blockquote class="quoteback" darkmode="" data-title="Of%20Digital%20Streams%2C%20Campfires%20and%20Gardens" data-author="@tomcritchlow" cite="https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/">
+ <strong>Campfires</strong> - mostly blogging for me, though I know some folks gather around private slack groups too. My blog functions as a digital campfire (or a series of campfires) that are slower burn but fade relatively quickly over the timeframe of years. Connection forming, thinking out loud, self referencing and connection forming. This builds muscle, helps me articulate my thinking and is the connective tissue between ideas, people and more. While I’m not a daily blogger I’ve been blogging on and off for 10+ years.
+<footer> <cite><a href="https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/">Of Digital Streams, Campfires and Gardens</a></cite></footer>
+</blockquote>
+ <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+For me personally Facebook posts & replies in groups, discord discussions, and twitter discussions I'm a part of act this way for me. They don't have the longevity he's talking about, but they *can be* and occasionally are sometimes referenced later. 
+
 
 
 ## **Digital Gardening Links**

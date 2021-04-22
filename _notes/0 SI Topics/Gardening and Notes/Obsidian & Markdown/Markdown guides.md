@@ -8,6 +8,7 @@ maturity: seedling
 
 - [[Images in Markdown]]
 - [[Citing in Obsidian]]
+- [[Obsidian Codes]]
 
 
 #### Related(ish)
