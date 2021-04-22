@@ -1,7 +1,7 @@
 ---
 Title: How to do stuff with images in markdown
 
-tags: seedling
+maturity: budding
 ---
 
 # How to do stuff with images in markdown!: 

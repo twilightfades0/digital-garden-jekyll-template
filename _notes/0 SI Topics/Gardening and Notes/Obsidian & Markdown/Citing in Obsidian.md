@@ -1,7 +1,7 @@
 ---
-Title: Citing & References in Obsidian
+title: Citing & References in Obsidian
 
-tags: half-planted
+maturity: seedling
 ---
 
 # Citing & References in Obsidian
