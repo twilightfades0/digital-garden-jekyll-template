@@ -47,6 +47,7 @@ A digital garden is the perfect solution for me, as I can copy those comments ov
 </blockquote>
 
 <br>
+
 **Digital Gardening Links**
 
 - [A Brief History &amp; Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
