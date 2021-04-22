@@ -1,8 +1,9 @@
 ---
-maturity: just_planted
+title: What are Digital/Mind Gardens?
+
+maturity: budding
 ---
 
-## What are **Digital Gardens** (aka **Mind Gardens**)?
 
 This site is my digital garden, a place on the web where I can consolidate some of my thoughts and writings in a way that can be both shareable, integrated with other information I collect (like a wiki), yet still a work-in-progress. 
 
@@ -48,11 +49,6 @@ Just like plants in the garden I've got posts that are in various stages of grow
 <br>
 	
 
-
-
-<br>
-
-
 <blockquote class="quoteback" darkmode="" data-title="You%20and%20your%20mind%20garden" data-author="@ness_labs" cite="https://nesslabs.com/mind-garden">
  In French, “cultiver son jardin intérieur” means to <em>tend to your internal garden</em>—to take care of your mind. The garden metaphor is particularly apt: taking care of your mind involves cultivating your curiosity (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits). On the surface, it’s a repetitive process. You need consistency and patience. But each day tending to your “mind garden” is different: discovering a new learning strategy, having a eureka moment, connecting the dots between two authors, getting involved in a lively conversation with an expert.
 <footer>@ness_labs <cite><a href="https://nesslabs.com/mind-garden">https://nesslabs.com/mind-garden</a></cite></footer>
@@ -60,22 +56,14 @@ Just like plants in the garden I've got posts that are in various stages of grow
 
 <br>
 
----
 
-## Campfires, Streams, Campfires, and Swales
+
+## Streams, Campfires, and Gardens
 
 
 These are words used to describe experiences with the internet. 
 
-#### Garden
 
-Let's think of Wikipedia as a garden, with each page a different plant.
-
-<blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author=" " cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
-Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden. We create the garden as a sort of experience generator, capable of infinite expression and meaning.
-<footer>  <cite><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></cite></footer>
-</blockquote>
-<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 #### Streams
 
@@ -112,6 +100,18 @@ Tom Critchlow added (as far as I can tell it was his idea, anyway) "campfires"
 
 For me personally Facebook posts & replies in groups, discord discussions, and twitter discussions I'm a part of act this way for me. They don't have the longevity he's talking about, but they *can be* and occasionally are sometimes referenced later. 
 
+
+
+
+#### Garden
+
+Let's think of Wikipedia as a garden, with each page a different plant.
+
+<blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author=" " cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
+Each flower, tree, and vine is seen in relation to the whole by the gardener so that the visitors can have unique yet coherent experiences as they find their own paths through the garden. We create the garden as a sort of experience generator, capable of infinite expression and meaning.
+<footer>  <cite><a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">The Garden and the Stream: A Technopastoral</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 
 ## **Digital Gardening Links**
