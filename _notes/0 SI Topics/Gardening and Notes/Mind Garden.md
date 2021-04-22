@@ -51,8 +51,8 @@ A digital garden is the perfect solution for me, as I can copy those comments ov
 **Digital Gardening Links**
 
 
-- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
-- [\n        How the Blog Broke the Web - Stacking the Bricks](https://stackingthebricks.com/how-blogs-broke-the-web/)
+- [A Brief History &amp; Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [How the Blog Broke the Web - Stacking the Bricks](https://stackingthebricks.com/how-blogs-broke-the-web/)
 - [The Garden and the Stream: A Technopastoral | Hapgood](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
 - [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
 - [The Swale: Weaving between Garden and Stream | bonkerfield](https://bonkerfield.org/2020/05/swale-garden-stream/)
