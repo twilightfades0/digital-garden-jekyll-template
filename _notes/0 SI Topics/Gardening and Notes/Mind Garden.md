@@ -25,3 +25,31 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 <footer><cite> <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/</a></cite></footer>
 </blockquote>
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+This site is my digital garden wiki, where I can consolidate some of my thought and writing, as well as expand on it, dig deeper, and be able to easily link back to the thought and reading I've done on the subject later. 
+
+And, most importantly for me, it is *allowed* to be messy.
+
+Blog posts are proper essays. It's hard for my and my ADHD brain to sit down and whip up a polished essay when I want to blog, so I rarely do anymore. I hate that. And all it really does is shift my writing to FB & twitter comments, where they are much more ephmereal and unlikely to be read after the day they were written. And because of the nature of my FB use (lots of health/neurodiversity groups), that *really* sucks because I tend to put way too much time into those comments.
+
+A digital garden is the perfect solution for me, as I can copy those comments over here and have them for expanding and cleaning up later-- and hopefully ideally turning into those polished bold posts (or evergreen posts in digital garden parlance) over time. 
+
+
+
+
+<blockquote class="quoteback" darkmode="" data-title="You%20and%20your%20mind%20garden" data-author="@ness_labs" cite="https://nesslabs.com/mind-garden">
+ In French, “cultiver son jardin intérieur” means to <em>tend to your internal garden</em>—to take care of your mind. The garden metaphor is particularly apt: taking care of your mind involves cultivating your curiosity (the seeds), growing your knowledge (the trees), and producing new thoughts (the fruits). On the surface, it’s a repetitive process. You need consistency and patience. But each day tending to your “mind garden” is different: discovering a new learning strategy, having a eureka moment, connecting the dots between two authors, getting involved in a lively conversation with an expert.
+<footer>@ness_labs <cite><a href="https://nesslabs.com/mind-garden">https://nesslabs.com/mind-garden</a></cite></footer>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+
+
+**Digital Gardening Links**
+
+
+- [A Brief History & Ethos of the Digital Garden](https://maggieappleton.com/garden-history)
+- [\n        How the Blog Broke the Web - Stacking the Bricks](https://stackingthebricks.com/how-blogs-broke-the-web/)
+- [The Garden and the Stream: A Technopastoral | Hapgood](https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/)
+- [Of Digital Streams, Campfires and Gardens](https://tomcritchlow.com/2018/10/10/of-gardens-and-wikis/)
+- [GitHub - MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)

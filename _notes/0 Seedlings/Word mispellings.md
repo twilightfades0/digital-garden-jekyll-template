@@ -6,3 +6,4 @@ Examples:
 - ingredients -> incredients
 - Thing -> Think 
 - Hobbies -> Hoppies
+- if i ask him -> if i was him
