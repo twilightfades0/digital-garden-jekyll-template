@@ -23,4 +23,5 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 <p class="c0">[...] just imagine that instead of blogging and tweeting your experience you wiki’d it. And over time the wiki became a representation of things you knew, connected to other people’s wikis about things they knew.</p>
 <p class="c0">So when I see an article like this I think — Wow, I don’t have much in my wiki about gun control, this seems like a good start to build it out and I make a page.</p>
 <footer><cite> <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/</a></cite></footer>
-</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+</blockquote>
+<script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
