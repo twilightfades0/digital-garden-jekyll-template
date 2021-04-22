@@ -27,6 +27,29 @@ In the words of gardening queen [Maggie Appleton](https://maggieappleton.com/):
 <script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
 
 
+
+
+
+<blockquote class="quoteback" darkmode="" data-title="The%20Garden%20and%20the%20Stream%3A%20A%20Technopastoral" data-author="@wordpressdotcom" cite="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">
+<p class="c0">So a year ago I would have thrown the link to Twitter with a damning summary of the study, and everyone would have known I was a good liberal and retweeted it to prove that they were good liberals and if you listened closely you could hear our collective neurons harden.</p>
+<p class="c0">But for the past year I’ve been experimenting with another form of social media called federated wiki. And it’s radically changed how I think about online communication and collaboration.</p>
+<p class="c0">[...] just imagine that instead of blogging and tweeting your experience you wiki’d it. And over time the wiki became a representation of things you knew, connected to other people’s wikis about things they knew.</p>
+<p class="c0">So when I see an article like this I think — Wow, I don’t have much in my wiki about gun control, this seems like a good start to build it out and I make a page.</p>
+<footer>@wordpressdotcom<cite> <a href="https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/">https://hapgood.us/2015/10/17/the-garden-and-the-stream-a-technopastoral/</a></cite></footer>
+</blockquote><script note="" src="https://cdn.jsdelivr.net/gh/Blogger-Peer-Review/quotebacks@1/quoteback.js"></script>
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>
 	
 This site is my digital garden wiki, where I can consolidate some of my thought and writing, as well as expand on it, dig deeper, and be able to easily link back to the thought and reading I've done on the subject later. 
