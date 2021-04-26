@@ -1,0 +1,88 @@
+<?php include('top.txt'); ?>
+
+<body bgcolor="#C0C0C0">
+
+<DIV style="position: absolute; top:5px; left:5px; width:0px; height:0px"> 
+<IMG SRC="site.jpg" border="0">
+</DIV>
+
+<DIV style="position: absolute; top:280px; left:324px; width:0px; height:0px"> 
+
+
+<script language="javascript" type="text/javascript">
+function jump(form) {
+var myindex=form.menu.selectedIndex
+if (form.menu.options[myindex].value != "0") 
+{
+window.open(form.menu.options[myindex].value, 
+target="main");
+}
+}
+//-->
+</script>
+
+<form name="menu1" ACTION=URI>
+<select name="menu"style="background-color: #979797; font-family: arial; font-size: 9px; width: 80px; color:#FFFFFF"  onchange="jump(this.form)">
+<option value="0">The Stuff?</option>   
+<option value="0"></option>   (this adds a space).
+<option value="http://www.sannindi.net/stats.php">stats</option>
+<option value="http://www.sannindi.net/autobio.php">autobiography</option>
+<option value="http://www.sannindi.net/mypics.php">ew,my face</option>
+<option value="http://www.sannindi.net/beforeidie.php">before I die</option>
+<option value="http://www.sannindi.net/aim.php">AIM convos</option>
+<option value="http://www.sannindi.net/soundtrack.php">The Ameya Soundtrack</option>
+<option value="http://www.sannindi.net/myquoes.php">I've spoken</option>
+<option value="http://www.sannindi.net/beloved.php">the belovéd</option>
+<option value="http://www.sannindi.net/obsessions.php">obsessions</option>
+<option value="http://www.sannindi.net/bumper1.php">my bumper stickers</option>
+<option value="http://www.sannindi.net/random.php">randomness</option>
+<option value="http://www.sannindi.net/famousohioans.php">famous Ohions</option>
+<option value="http://www.sannindi.net/quotes.php">Quote-age!</option>
+</select>
+</form>
+
+
+
+
+
+
+</DIV>
+
+<DIV style="position: absolute; top:280px; left:497px; width:0px; height:0px"> 
+
+<script language="javascript" type="text/javascript">
+function jump(form) {
+var myindex=form.menu.selectedIndex
+if (form.menu.options[myindex].value != "0") 
+{
+window.open(form.menu.options[myindex].value, 
+target="main");
+}
+}
+//-->
+</script>
+
+<form name="menu2" ACTION=URI>
+<select name="menu2" style="background-color: #979797; font-family: arial; font-size: 9px; width: 80px; color:#FFFFFF" onchange="jump(this.form)">
+<option value="0">The Web</option>   
+<option value="0"></option>   (this adds a space).
+<option value="http://www.sannindi.net/blogcrews.php">blog crews</option>
+<option value="http://www.sannindi.net/cliques.php">cliques</option>
+<option value="http://www.sannindi.net/fan.php">fanlistings</option>
+<option value="http://www.sannindi.net/webrings.php">webrings</option>
+<option value="http://www.sannindi.net/links.php">links</option>
+</select>
+</form>
+
+</DIV>
+
+
+
+
+<DIV style="position: absolute; top:316px; left:312px; width:0px; height:0px"> 
+<iframe name="main" src="welcome.php" width="350" height="290" allowtransparency="true"filter: alpha(opacity=50); scrolling="auto" noresize frameborder="0" style="border:0 solid #000000"></iframe>
+</DIV>
+
+
+<?php include('bottom.txt'); ?>
+
